@@ -26,6 +26,24 @@ h1:hover {
 body {
   background-color: #E3E5F5;
 }
+
+.button {
+     background-color: #AAB3DE;
+     color: white;
+     padding: 75px 75px;
+     font-size: 25px;
+     font-family: 'Josefin Sans', sans-serif;
+     -webkit-transition-duration: 1s; /* Safari */
+    transition-duration: 1s;
+    border-radius: 2%;
+    margin-right: 50px;
+    margin-left: 50px;
+    border-radius: 50%;
+}
+.button:hover {
+    background-color: #393D6C;
+    color: white;
+}
   
 </style>
 </head>

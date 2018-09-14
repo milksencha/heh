@@ -25,6 +25,7 @@ h1:hover {
 
 body {
   background-color: #E3E5F5;
+  text-align: center;
 }
 
 p {
@@ -39,8 +40,8 @@ p {
      font-family: 'Josefin Sans', sans-serif;
      -webkit-transition-duration: 1s; /* Safari */
     transition-duration: 1s;
-    margin-right: 50px;
-    margin-left: 50px;
+    margin-right: 25px;
+    margin-left: 25px;
 }
 .button:hover {
     background-color: #393D6C;

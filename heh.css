@@ -27,6 +27,10 @@ body {
   background-color: #E3E5F5;
 }
 
+p {
+  text-align: center;
+}
+
 .button {
      background-color: #AAB3DE;
      color: white;

@@ -39,7 +39,7 @@ p {
      font-family: 'Josefin Sans', sans-serif;
      -webkit-transition-duration: 1s; /* Safari */
     transition-duration: 1s;
-  padding: 10 px
+  padding: 20 px
 }
 .button:hover {
     background-color: #393D6C;

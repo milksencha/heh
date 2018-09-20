@@ -35,13 +35,10 @@ p {
 .button {
      background-color: #AAB3DE;
      color: white;
-     padding: 75px 75px;
      font-size: 25px;
      font-family: 'Josefin Sans', sans-serif;
      -webkit-transition-duration: 1s; /* Safari */
     transition-duration: 1s;
-    margin-right: 25px;
-    margin-left: 25px;
 }
 .button:hover {
     background-color: #393D6C;
